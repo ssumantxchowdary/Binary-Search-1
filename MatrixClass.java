@@ -24,7 +24,7 @@ class Solution {
 
 class Main {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        SolutionArray solution = new SolutionArray();
 
         int[][] matrix = {
                 {1, 3, 5, 7},
